@@ -43,4 +43,12 @@ rabbitmqadmin get queue='hello'
 
 ![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.35.56.png)
 
-https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.39.08.png
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.39.08.png)
+
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.51.24.png)
+
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.42.22.png)
+
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.42.29.png)
+
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.43.39.png)
