@@ -8,7 +8,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/es/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_12.17.19.png)
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_18.55.16.png)
 
 ### Задание 2
 ### Что нужно сделать:
@@ -22,7 +22,8 @@
 
 ### Решение 2
 
-![Скрин](https://github.com/garrkiss/es/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_12.19.12.png)
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.11.25.png)
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.17.20.png)
 
 ### Задание 3
 ### Что нужно сделать:
@@ -40,4 +41,6 @@ rabbitmqadmin get queue='hello'
 
 ### Решение 3
 
-![Скрин](https://github.com/garrkiss/es/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_13.56.43.png)
+![Скрин](https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.35.56.png)
+
+https://github.com/garrkiss/rabbitmq/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2007.07.24_19.39.08.png
